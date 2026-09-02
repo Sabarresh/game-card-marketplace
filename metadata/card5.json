@@ -1,0 +1,19 @@
+{
+  "name": "Celestial Dragon",
+  "description": "A majestic celestial dragon born among the stars, wielding the radiant power of the heavens.",
+  "image": "ipfs://bafybeicnr22mmeilcxp6uhervuclvcmkdtghiktmruwcrw7ntggty7jewe",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Power",
+      "value": 97
+    }
+  ]
+}

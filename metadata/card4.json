@@ -1,0 +1,19 @@
+{
+  "name": "Thunder Griffin",
+  "description": "Born of storm and sky, the Thunder Griffin soars through tempests, striking fear into enemies with the fury of lightning.",
+  "image": "ipfs://bafybeib657khnmvlyxeqqe75kutfnfwkw5rxgqpn3nngmmmch5yez5a44m",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Power",
+      "value": 98
+    }
+  ]
+}

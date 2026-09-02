@@ -1,0 +1,19 @@
+{
+  "name": "Frost Dragon",
+  "description": "An ancient dragon born from glaciers. It freezes everything in its path with a single breath.",
+  "image": "ipfs://bafybeihxjxpv62mwaikffpy3lluv4jr7m4g4zdl4gzqb6btqofsdl73ptm",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power",
+      "value": 75
+    }
+  ]
+}

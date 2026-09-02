@@ -1,0 +1,19 @@
+{
+  "name": "Shadow Phoenix",
+  "description": "A legendary phoenix born from the shadows, rising from ancient ruins with devastating dark power.",
+  "image": "ipfs://bafybeidj5djmlytx5xyp7br5lnlidii5foald6tq4viqlyu3nhdkfg5mk4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Power",
+      "value": 95
+    }
+  ]
+}

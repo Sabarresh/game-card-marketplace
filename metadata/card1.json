@@ -1,0 +1,11 @@
+{
+  "name": "Ember Wolf",
+  "description": "A collectible game card from the Game Card Marketplace.",
+  "image": "ipfs://bafybeigyamdx54vl65qfchvp3nql2qzi5zc67zj3rftnzij4vmyjgfyu3y",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
