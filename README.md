@@ -216,11 +216,15 @@ Screenshots of the completed Game Card Marketplace will be added below.
 
 ### Frontend
 
-The frontend is currently run locally using Vite.
+The Game Card Marketplace is deployed and publicly accessible here:
 
-    http://localhost:5173
+https://game-card-marketplace.vercel.app
 
-A public frontend deployment is not currently available.
+### Smart Contract
+
+The smart contract is deployed on the Ethereum Sepolia testnet at:
+
+0xeaFBdB1030F7363B89e533e55AD07fD3a9E5B4DF
 
 ### Smart Contract
 
